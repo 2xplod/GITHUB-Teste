@@ -13,3 +13,9 @@ print ("Minha Rola é o \(str)")
 
 
 print ("ultimo teste")
+print ("ultimo teste")
+print ("ultimo teste")
+print ("ultimo teste")
+print ("ultimo teste")
+print ("ultimo teste")
+print ("ultimo teste")
