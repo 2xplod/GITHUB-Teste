@@ -8,3 +8,5 @@ str = "testando"
 
 
 //Caraleo!!!!!!!!
+
+print ("Minha Rola é o \(str)")
